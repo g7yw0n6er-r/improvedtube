@@ -46,7 +46,7 @@ Big thanks ♡ to our <a href="https://github.com/ImprovedTube/ImprovedTube/grap
 Planned Features</h3></th></tr><tr><td>
                                                                          
  - 🛈ToolTips
- - global Video Controls
+ - Global Video Controls
  - Fullpage Video History/Dashboard
  - Smart Filtering/Blocking/Discovery
  - Preventing CPU Rendering by default 
@@ -67,11 +67,11 @@ Planned Features</h3></th></tr><tr><td>
  <details><summary align="left"><code><h3>&nbsp;&nbsp;&nbsp;&nbsp;
 🧰 Features&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3></code></summary>
                                     
- - Fit Video to window & default resolution & Pop-up player
- - hiding distractions
- - Youtube Themes & Colors
+ - Fit Video to window, default resolution or pop-up player
+ - Hiding distractions
+ - Youtube Themes, Colors & night schedule
  - Video Repeat-, screenshot-, rotate-buttons
- - *Many* Customizable hotkeys / shortcuts
+ - Customizable hotkeys / shortcuts
 <div align=center><a href="https://github.com/code4charity/YouTube-Extension/wiki/Features">[Full List of Features]</a></div>
  </details>
 
