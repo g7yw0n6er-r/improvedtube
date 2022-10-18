@@ -95,8 +95,8 @@ Planned Features</h3></th></tr><tr><td>
            - 6.) Select the `manifest.json` file from unzipped folder
  </details>
 
-<details><summary align="center"><code><h2>&nbsp;
-<code>🎁 Extensions/Projects</h2></code>&nbsp;▼</code></summary>
+ <details><summary align="center"><code><h2>&nbsp;
+<code><code>🎁</code> Extensions/Projects</h2></code>&nbsp;</code>▼</summary>
 	
 ### Our extensions
 * **`Browsing / Filters`:** <code>
@@ -113,7 +113,7 @@ Planned Features</h3></th></tr><tr><td>
 [**`unBlob`**](https://chrome.google.com/webstore/detail/unblob-alpha/odognhgojidbcgconbcipmgffjcmfaoj)[<img src="https://camo.githubusercontent.com/4883534c0efe4140d2899349f631d8bda267086c38d17e3b92a379e97cfa3050/68747470733a2f2f692e696d6775722e636f6d2f6d3645597265312e706e67" height="18px">](https://github.com/code-for-charity/unblob)
 (<i><del>Equalizer[<img src="https://camo.githubusercontent.com/4883534c0efe4140d2899349f631d8bda267086c38d17e3b92a379e97cfa3050/68747470733a2f2f692e696d6775722e636f6d2f6d3645597265312e706e67" height="18px">](https://github.com/code-for-charity/equalizer)</del></i>)
 
-* 🐣<b>`Home`:</b> 
+* <b>`Home`:</b> 
 **`History Manager`**<a href="https://github.com/code-for-charity/history-manager"><img src="https://camo.githubusercontent.com/4883534c0efe4140d2899349f631d8bda267086c38d17e3b92a379e97cfa3050/68747470733a2f2f692e696d6775722e636f6d2f6d3645597265312e706e67" height="18px"></a>
 (<i><del> Start Page <a href="https://github.com/code-for-charity/start-page"><img src="https://camo.githubusercontent.com/4883534c0efe4140d2899349f631d8bda267086c38d17e3b92a379e97cfa3050/68747470733a2f2f692e696d6775722e636f6d2f6d3645597265312e706e67" height="18px"></a></del></i>) 
 [`TextEditor`]([https://chrome.google.com/webstore/detail/to-do/mniboiicchcpkffcdlaocnkfpbdihgii](https://chrome.google.com/webstore/detail/text-editor/bnbgafdjiinlgnjaedmfaablklnafpka?hl=de))[<img src="https://camo.githubusercontent.com/4883534c0efe4140d2899349f631d8bda267086c38d17e3b92a379e97cfa3050/68747470733a2f2f692e696d6775722e636f6d2f6d3645597265312e706e67" height="18px">](https://github.com/code-for-charity/Texteditor2)
@@ -121,18 +121,18 @@ Planned Features</h3></th></tr><tr><td>
 (<i>[`auto-scroll`](https://chrome.google.com/webstore/detail/auto-scroll/kpfalbhnppkbokafignonoppegdndlch)<a href="https://github.com/code-for-charity/auto-scroll"><img src="https://camo.githubusercontent.com/4883534c0efe4140d2899349f631d8bda267086c38d17e3b92a379e97cfa3050/68747470733a2f2f692e696d6775722e636f6d2f6d3645597265312e706e67" height="18px"></a></i>)
 
 ### Open-Source & Git
-[`Regex Collector`](https://github.com/code4charity/the-RegEx-Collector--Queries--Patterns " - community-list of Regex") 
-[`Pull Requests bots`](https://github.com/code4charity/Open-Source-Bot--Github-Git-Pull-Request-Bot)
+🐣[`Regex Collector`](https://github.com/code4charity/the-RegEx-Collector--Queries--Patterns " - community-list of Regex") 
+🌱[`Pull Requests bots`](https://github.com/code4charity/Open-Source-Bot--Github-Git-Pull-Request-Bot)
 <br>**`Development`:** [**`Satus`**](https://github.com/code-for-charity/satus) - Our UI library [**`WebGL.js`**](https://github.com/code-for-charity/webgl.js) - WebGL Library 
-<br><del>[TE](https://github.com/victor-savinov/theme-engine),[P](https://github.com/victor-savinov/pluviam),[CodeEdit](https://github.com/victor-savinov/code-editor), [Viscum Player](https://github.com/victor-savinov/viscum-player),   
-</del></details>
+<br><del>[TE](https://github.com/victor-savinov/theme-engine),[P](https://github.com/victor-savinov/pluviam),[CodeEdit](https://github.com/victor-savinov/code-editor), [Viscum Player](https://github.com/victor-savinov/viscum-player)</del>
+ </details> 
 
  <table align="right"><th><i><h3 align="center">
 🌎 Translators <a href="https://github.com/code-for-charity/YouTube-Extension#--translators-" title="💕">♡</a></h4></i></th>
  <tr><td>   <table><tr><td>  <code>  
 <code>✔️</code><a href="https://github.com/ImprovedTube/ImprovedTube/blob/master/_locales/en/messages.json" title="English">EN</a></code>+<code>
  <a href="https://github.com/ImprovedTube/ImprovedTube/blob/master/_locales/uk/messages.json" title="English (UK)">en_GB</a></code> :
-<a href="https://github.com/KorbinCode" "✨🏆"><code>KorbinCode</code></a>
+<a href="https://github.com/KorbinCode" title="✨🏆"><code>KorbinCode</code></a>
 <br>Proofreaders:<code><a href="https://github.com/????????">___</a></code> (You?) </code><br><code>
 <code>✔️</code><a href="https://github.com/ImprovedTube/ImprovedTube/blob/master/_locales/zh_CN/messages.json" title="中文 (简体)">CN(zh_CN)</a></code> :
 <a href="https://github.com/niceRAM" title="✨🏆"><code>niceRAM</code></a>,
@@ -168,7 +168,7 @@ Planned Features</h3></th></tr><tr><td>
 <a href="https://github.com/Bagus23"><code>Bagus23</code></a>,
 <a href="https://github.com/fdciabdul"><code>A.Muttaqin</code></a><br><code>	
 <code>✔️</code><a href="https://github.com/ImprovedTube/ImprovedTube/blob/master/_locales/de/messages.json" title="Deutsch">DE</a></code> :
-<a href="https://github.com/Termuellinator" "✨🏆"><code>Termuellinator</code></a>,
+<a href="https://github.com/Termuellinator" title="✨🏆"><code>Termuellinator</code></a>,
 <a href="https://github.com/css-smueller"><code>css-smueller</code></a><br><code>
 <code>✔️</code><a href="https://github.com/ImprovedTube/ImprovedTube/blob/master/_locales/ja/messages.json" title="日本語">JA</a></code> :
 <a href="https://github.com/utuhiro78" title="✨🏆"><code>utuhiro78</code></a><br><code>
@@ -238,7 +238,7 @@ Planned Features</h3></th></tr><tr><td>
 <div align="center">[<a href="https://github.com/code-for-charity/YouTube-Extension/wiki/Translation-HowTo">Help us Translate</a>]</div><br>
 
 <div align="center"><i> The following popular languages are<br>
-spoken mainly. But dont hesitate to add<br> one of them. (Even if or fun)</i> <br><code> 
+spoken mainly. But dont hesitate to add<br> one of them. (Even if just for fun)</i> <br><code> 
 Urdu</code>   
 Nigerian Pidgin (English Creole)<br>
 Western-&Eastern-Punjabi<br>
@@ -259,7 +259,7 @@ And more second-language speakers than <br>
 Chinese + Hindi + Spanish) <br></i></div>
 <br><div align="center">[<a href="https://github.com/code-for-charity/YouTube-Extension/wiki/Translation-HowTo">Help us Translate</a>]</div>
   </td></tr></table>   </td></tr></table> 
-
+  
  <details><summary><code><h3>&nbsp;&nbsp;&nbsp;&nbsp;
 📟 "Ticker"</h3>&nbsp;&nbsp;</code></summary>
 	
