@@ -24,16 +24,16 @@ is a lightweight & powerful extension to improve your video experience & choice.
 
 <p align="center"><a href="https://chrome.google.com/webstore/detail/improve-youtube-open-sour/bnomihfieiccainjcjblhegjgglakjdd"><img width="654" alt="YouTube Extension" src="https://user-images.githubusercontent.com/25022245/177911301-bbcf6edc-6bc9-47c4-aa0c-3d1cccbaa269.png"></a></p>
 
-<table align="right"><th><h3 align="center">
-Critiques</h3> </th><tr><td><div align="right"> 
+ <table align="right"><th><h3 align="center"> Critiques</h3> </th>  <tr><td> <table align="right"><tr><td><div align="right"> 
 <a href="https://addons.mozilla.org/en-US/firefox/addon/youtube-addon/" title="In 2021 we first uploaded a Firefox Version & were permanently recommended"><img width="154" alt="recommended by firefox" src="https://user-images.githubusercontent.com/9015764/178100681-728b9513-b6f8-4bf7-8949-c3d8449669ec.svg">
 by <img src="https://design.firefox.com/product-identity/firefox/firefox/firefox-logo.svg" height="25px"></a>(only ~ 100)<br><i>
 <code><code>'Might be the best YouTube Extension Ever'</code></code>- <a href="https://lifehacker.com/this-might-be-the-only-youtube-browser-extension-youll-1846575110" title="- Lifehacker.com 2021"><img src="https://lifehacker.com/favicon.ico" height="16px"></a><br>
 <code>'enhances YouTube in meaningful ways'</code>- <a href="https://www.ghacks.net/2021/03/26/improved-youtube-enhances-youtube-in-meaningful-ways" title="- gHacks.net"><img src="https://ghacks.net/favicon.ico" height="15px"></a><br>
-<code><code><code>'Strong add-on, full control. Yet clear & easy'</code></code></code>- <a href="https://www.chip.de/downloads/Improve-YouTube-fuer-Chrome_183480435.html" title="- Chip.de"><img src="https://www.chip.de/favicon.ico"></a><br>
+<code><code><code>'Strong add-on, full control. Yet clear & easy'</code></code></code>- <a href="https://www.chip.de/downloads/Improve-YouTube-fuer-Chrome_183480435.html" title="- Chip.de"><img src="https://www.chip.de/favicon.ico"></a></div>
+ </td></tr></table><div align="right">   	
 Big thanks ♡ to our <a href="https://github.com/ImprovedTube/ImprovedTube/graphs/contributors">contributors,</a> <a href="https://github.com/dodieboy" title="🏅🥇🥈🥉">dodieboy</a>,<br>
-<a href="https://github.com/code-for-charity/YouTube-Extension#--translators-">translators</a>/wiki-authors & <a href="https://www.blockchain.com/btc/address/144kqL6nGEQtVL3QCdADY4EtduZ95Vu1pL">donators :bowtie:</a> </div></i>
- </td></tr></table> 
+<a href="https://github.com/code-for-charity/YouTube-Extension#--translators-">translators</a>/wiki-authors & <a href="https://www.improvedtube.com/donate">donators :bowtie:</a> </div></i>
+ </td></tr></table>
 	
 ### The strongest Youtube Extension<br> 90 proven features - the only one of a kind 
  Since 2012 we have gradually been adding lightweight features & keeping up with sisyphean maintainance after big Youtube changes (throughout the years we witnessed the birth & fall of other promising & open YouTube Extensions [1](https://github.com/YePpHa/YouTubeCenter "YouTubeCenter"), [2](https://github.com/ParticleCore/Iridium "Iridium"), ... ) Yet adding something is easier & so motivating as there are 500 000 users. [[👪Join us]](https://github.com/code-for-charity/YouTube-Extension/discussions/1006 "github.com/Code-for-Charity"). 
@@ -129,9 +129,9 @@ Planned Features</h3></th></tr><tr><td>
 
  <table align="right"><th><i><h3 align="center">
 🌎 Translators <a href="https://github.com/code-for-charity/YouTube-Extension#--translators-" title="💕">♡</a></h4></i></th>
-<tr><td><code>
+ <tr><td>   <table><tr><td>  <code>  
 <code>✔️</code><a href="https://github.com/ImprovedTube/ImprovedTube/blob/master/_locales/en/messages.json" title="English">EN</a></code>+<code>
-<a href="https://github.com/ImprovedTube/ImprovedTube/blob/master/_locales/uk/messages.json" title="English (UK)">en_GB</a></code> :
+ <a href="https://github.com/ImprovedTube/ImprovedTube/blob/master/_locales/uk/messages.json" title="English (UK)">en_GB</a></code> :
 <a href="https://github.com/KorbinCode" "✨🏆"><code>KorbinCode</code></a>
 <br>Proofreaders:<code><a href="https://github.com/????????">___</a></code> (You?) </code><br><code>
 <code>✔️</code><a href="https://github.com/ImprovedTube/ImprovedTube/blob/master/_locales/zh_CN/messages.json" title="中文 (简体)">CN(zh_CN)</a></code> :
@@ -231,35 +231,34 @@ Planned Features</h3></th></tr><tr><td>
 <code>❌</code><a href="https://github.com/ImprovedTube/ImprovedTube/blob/master/_locales/____/messages.json" title="Catalan, Valencian">Catalan, Valencian</a></code> :
 <a href="https://github.com/_____">(You?)</a><br><code>		
 <code>❌</code><a href="https://github.com/ImprovedTube/ImprovedTube/blob/master/_locales/____/messages.json" title="Estonian">Estonian</a></code> :
-<a href="https://github.com/_____">(You?)</a><br>	
-<br><code><code>✓</code></code> = <i> missing some additions/updates </i>
+<a href="https://github.com/_____">(You?)</a><br> 
+ </td></tr></table>
 	
+<code><code>✓</code></code> = <i> missing some additions/updates </i>	
 <div align="center">[<a href="https://github.com/code-for-charity/YouTube-Extension/wiki/Translation-HowTo">Help us Translate</a>]</div><br>
 
-<h6><i> The following popular languages are<br>
-spoken mainly. But dont hesitate to add<br>
-one of them. (Even if or fun)</i></h6><code> 
-Urdu</code>
+<div align="center"><i> The following popular languages are<br>
+spoken mainly. But dont hesitate to add<br> one of them. (Even if or fun)</i> <br><code> 
+Urdu</code>   
 Nigerian Pidgin (English Creole)<br>
 Western-&Eastern-Punjabi<br>
 Marathi(Indo-European)<code>Telugu</code><br>
 <code>Tamil</code> Yue Chinese (incl. Cantonese)<br>
 Tagalog (New name: Filipino)<br> Wu Chinese (incl. Shanghainese)<br>
-<code>Hausa</code><br>Egyptian Spoken Arabic<br>
+<code>Hausa</code>Egyptian Spoken Arabic<br>
 <code>Swahili</code><code>Javanese</code>Kannada<code>Gujarati</code><br>
 Amharic, Bhojpuri, <br>
 Min Nan Chinese (incl. Hokkien),<br> 
 Jin Chinese <code>Yoruba</code> Hakka Chinese,<br>
 Burmese, <br>
 Spoken Arabic: Sudanese & Algerian <br> 
-Lingala, Malaysian Malay<br><br>
-<i>(Combined these have more native <br>
+Lingala, Malaysian Malay<br>
+<i>(Combined these have more first-language <br>
 speakers than English + Spanish + Hindi. <br>
 And more second-language speakers than <br>
-Chinese + Hindi + Spanish) <br></i>
- <br><div align="center">[<a href="https://github.com/code-for-charity/YouTube-Extension/wiki/Translation-HowTo">Help us Translate</a>]</div>
- </td></tr></table> 
-
+Chinese + Hindi + Spanish) <br></i></div>
+<br><div align="center">[<a href="https://github.com/code-for-charity/YouTube-Extension/wiki/Translation-HowTo">Help us Translate</a>]</div>
+  </td></tr></table>   </td></tr></table> 
 
  <details><summary><code><h3>&nbsp;&nbsp;&nbsp;&nbsp;
 📟 "Ticker"</h3>&nbsp;&nbsp;</code></summary>
