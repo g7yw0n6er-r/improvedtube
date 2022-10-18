@@ -96,7 +96,7 @@ Planned Features</h3></th></tr><tr><td>
  </details>
 
  <details><summary align="center"><code><h2>&nbsp;
-<code><code>🎁</code> Extensions/Projects</h2></code>&nbsp;</code>▼</summary>
+<code><code><code>🎁</code></code> Extensions/Projects</h2></code>&nbsp;</code>▼</summary>
 	
 ### Our extensions
 * **`Browsing / Filters`:** <code>
@@ -120,11 +120,12 @@ Planned Features</h3></th></tr><tr><td>
 [`ToDo`](https://chrome.google.com/webstore/detail/to-do/mniboiicchcpkffcdlaocnkfpbdihgii)[<img src="https://camo.githubusercontent.com/4883534c0efe4140d2899349f631d8bda267086c38d17e3b92a379e97cfa3050/68747470733a2f2f692e696d6775722e636f6d2f6d3645597265312e706e67" height="18px">](https://github.com/code-for-charity/to-do)
 (<i>[`auto-scroll`](https://chrome.google.com/webstore/detail/auto-scroll/kpfalbhnppkbokafignonoppegdndlch)<a href="https://github.com/code-for-charity/auto-scroll"><img src="https://camo.githubusercontent.com/4883534c0efe4140d2899349f631d8bda267086c38d17e3b92a379e97cfa3050/68747470733a2f2f692e696d6775722e636f6d2f6d3645597265312e706e67" height="18px"></a></i>)
 
-### Open-Source & Git
+### **`Development`:** [**`Satus`**](https://github.com/code-for-charity/satus) - Our UI library [**`WebGL.js`**](https://github.com/code-for-charity/webgl.js) - WebGL Library (<del>[TE](https://github.com/victor-savinov/theme-engine),[P](https://github.com/victor-savinov/pluviam),[CodeEdit](https://github.com/victor-savinov/code-editor), [Viscum Player](https://github.com/victor-savinov/viscum-player)</del>)
+
+### Git Community
 🐣[`Regex Collector`](https://github.com/code4charity/the-RegEx-Collector--Queries--Patterns " - community-list of Regex") 
 🌱[`Pull Requests bots`](https://github.com/code4charity/Open-Source-Bot--Github-Git-Pull-Request-Bot)
-<br>**`Development`:** [**`Satus`**](https://github.com/code-for-charity/satus) - Our UI library [**`WebGL.js`**](https://github.com/code-for-charity/webgl.js) - WebGL Library 
-<br><del>[TE](https://github.com/victor-savinov/theme-engine),[P](https://github.com/victor-savinov/pluviam),[CodeEdit](https://github.com/victor-savinov/code-editor), [Viscum Player](https://github.com/victor-savinov/viscum-player)</del>
+
  </details> 
 
  <table align="right"><th><i><h3 align="center">
