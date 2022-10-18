@@ -7,10 +7,23 @@ assignees: ''
 
 ---
 
-<!--
+<!--  
 (Click PREVIEW to undestand this template) 
-               OPTIONALLY fill the table if each point fits in the same line: 
+      OPTIONALLY fill the short table (=SUMMARY), if each point fits in the same line
+       - Else fill both. - You can also delete the table or the list, if you wish 
+                               - yet if you leave gaps, that can also be usefull info and we can edit/fill them later)
+                                                           Thank!
 -->
+
+SHORT Table | (Summary)     
+------------ | -------------   
+*Problem*     |                                   
+*Solution*     |                      <!-- TYPE HERE, only 1 line each) -->         
+*Alternatives*|         
+*Scope*         |           
+*Side effects*|                        <!-- TYPE HERE, only 1 line each) -->      
+*Context*      |
+
 
 ⚬ _PROBLEM_: 
 <!-- (Does your IDEA / feature request relate to a Problem? Which problem is? 
@@ -34,14 +47,8 @@ assignees: ''
            Who might NOT want this?(How many percent of users could be bothered by it even filling space in our menu?)--> 
 
 ⚬ _CONTEXT_:       <!-- any other context. -->
+
 // 
  Thank  you!
 
-SHORT Table | (Summary)     
------------- | -------------   
-*Problem*     |                                   
-*Solution*     |                                                            <!-- TYPE HERE, 1 line each) -->         
-*Alternatives*|         
-*Scope*         |           
-*Side effects*|        
-*Context*      |
+
